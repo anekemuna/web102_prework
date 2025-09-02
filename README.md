@@ -17,16 +17,16 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] <!-- List anything else that you can get done to improve the app functionality!-->
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
 
-[![Walkthrough](https://img.youtube.com/vi/SkN4w8wiDNw/0.jpg)](https://www.youtube.com/watch?v=SkN4w8wiDNw)
+[![Walkthrough](https://img.youtube.com/vi/1FPuFomVffo/0.jpg)](https://www.youtube.com/watch?v=1FPuFomVffo)
 
-Walkthrough link: [https://youtu.be/SkN4w8wiDNw]
+Walkthrough link: [https://youtu.be/1FPuFomVffo]
 
 <!-- Replace this with whatever GIF tool you used! -->
 Video created with YouTube
