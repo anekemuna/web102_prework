@@ -183,4 +183,4 @@ firstGameContainer.appendChild(game1)
 // do the same for the runner up item
 let game2 = document.createElement('p');
 game2.innerHTML = `<p> ${two.name} </p>`
-firstGameContainer.appendChild(game2)
+secondGameContainer.appendChild(game2)
